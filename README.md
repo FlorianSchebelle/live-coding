@@ -97,3 +97,6 @@ The following technologies should be used:
 * Gradle
 * Flyway database migration to create the initial schema
 * OpenAPI specification to generate server/client. 
+
+## Test
+bla bla
